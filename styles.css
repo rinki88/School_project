@@ -1,7 +1,3 @@
-/*** Navbar **/
-.navbar {
-background-color: blue;
-}
 
 /*** first-container **/
 .first-container > img {
@@ -16,6 +12,7 @@ background-color: blue;
   top : 30%;
   text-align : center;
   z-index :1;
+  margin-left: 15%;
 }
 
  .btn > a {
@@ -34,8 +31,7 @@ background-color: blue;
 }
 
 .first-item{
-  height: auto;
-  
+  height: auto;  
 }
 
 .item  {
@@ -108,9 +104,11 @@ background-color: blue;
   .first-container > img {
     height: 100vh;
   }
+.school{
+  top:50%;
+}
   
   .school > h1 {
-    top: 50%;
     font-weight : bold;
     font-size : 50px;
   }
@@ -144,7 +142,7 @@ background-color: blue;
 }
 
 .ga-im > img {
-  width: 300px;
+  width: 420px;
 }
 
 /** footer **/
